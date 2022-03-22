@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}*/
+h4{
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.input{
+    margin: 100px 0;
+    text-align: center;
+
+}
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background: #e7e7e7;
+   /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;*/
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 10px;
+    
+}
+
+.display{
+    text-align: center;
+}
